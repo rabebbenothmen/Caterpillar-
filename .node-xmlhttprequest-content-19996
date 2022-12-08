@@ -1,0 +1,1 @@
+{"err":null,"data":{"statusCode":200,"headers":{"content-type":"application/json","date":"Mon, 20 Apr 2020 12:37:39 GMT","connection":"close","transfer-encoding":"chunked"},"text":"{\"id\":225,\"jsonrpc\":\"2.0\",\"result\":\"0x0000000000000000000000000000000000000000000000000000000000000000\"}"}}
